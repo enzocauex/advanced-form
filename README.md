@@ -1,6 +1,6 @@
 # Código do Formulário - Advanced Form ( Desafio Fase 01 )
 
-![Screenshot](https://user-images.githubusercontent.com/71847081/167295343-13ef0752-fe3d-4d53-a509-392733decb15.png)
+![Screenshot](https://user-images.githubusercontent.com/71847081/172012225-d66d5fb3-1afe-43c1-bc99-ec9fe143c146.png)
 
 ## 🚀 Tecnologias
 
